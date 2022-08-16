@@ -1,7 +1,7 @@
 # windows-activator
 💉: batch file to activate windows
 
-## Usage:
+## Usage
 1. Download the zip and extract to a folder.
 2. Run "activate.bat" as `administrator` or use a command line switch
 3. Select a license and paste in the command line
